@@ -1,0 +1,56 @@
+.card-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 25px
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+  }
+  
+  .card {
+    flex-basis: calc(33.33% - 1rem);
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: #fff;
+    /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 0.2s ease-in-out;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .checkbox-btn.checked {
+    color: blue;
+    border-color: blue;
+  }
+  
+  .plan-header {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .plan-header h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .plan-header p {
+    font-size: 1.2rem;
+    font-weight: normal;
+    color: #777;
+  }
+  

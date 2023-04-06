@@ -1,0 +1,1078 @@
+[
+    {
+        "title": "Pashupatinath Temple",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Pashupatinath Temple is a sacred Hindu temple dedicated to Lord Shiva located on the banks of the Bagmati River. It is a UNESCO World Heritage Site and a popular pilgrimage destination for Hindus from all over the world.",
+        "activity": "Take part in the daily aarti ceremony, witness the traditional Hindu cremation rituals, and explore the temple complex to learn about Hindu mythology and culture.",
+        "latitude": "27.7106",
+        "longitude": "85.3485",
+        "type_visit": "Cultural",
+        "costs": [
+            {
+                "cost": "500",
+                "description": "entry fee"
+            },
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Boudhanath Stupa",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Boudhanath Stupa is one of the largest stupas in the world and a UNESCO World Heritage Site. It is a sacred site for Tibetan Buddhists and a popular destination for tourists.",
+        "activity": "Experience the peaceful atmosphere and spiritual energy of the stupa, visit nearby monasteries and handicraft shops, and participate in meditation or chanting sessions led by resident monks.",
+        "latitude": "27.7210",
+        "longitude": "85.3622",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "500",
+                "description": "entry fee"
+            },
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Swayambhunath Stupa",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Swyambhunath Stupa, also known as the Monkey Temple, is an ancient Buddhist stupa located on a hill overlooking Kathmandu. It is a UNESCO World Heritage Site and a popular pilgrimage destination for both Hindus and Buddhists.",
+        "activity": "Climb the stairs to reach the top of the hill and enjoy panoramic views of Kathmandu valley, visit the sacred shrines and temples around the stupa, and observe the playful antics of the resident monkeys.",
+        "latitude": "27.7144",
+        "longitude": "85.2895",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "500",
+                "description": "entry fee"
+            },
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Patan Durbar Square",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Patan Durbar Square is a complex of historic buildings and temples located in the city of Lalitpur. It is a UNESCO World Heritage Site and a testament to the rich Newari architecture and culture of the Kathmandu Valley.",
+        "activity": "Explore the intricate carvings and artwork on the buildings and temples, visit the Patan Museum to learn about the history and culture of the city, and sample Newari cuisine at the nearby restaurants.",
+        "latitude": "27.6742",
+        "longitude": "85.3252",
+        "type_visit": "Historical",
+        "costs" : [
+            {
+                "cost": "500",
+                "description": "entry fee"
+            },
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Kathmandu Durbar Square",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Kathmandu Durbar Square is a complex of palaces, temples, and courtyards located in the heart of the city. It is a UNESCO World Heritage Site and a symbol of the country's rich cultural heritage.",
+        "activity": "Visit the temples and palaces to learn about the history and architecture of the Kathmandu Valley, observe the daily life of locals in the surrounding markets, and watch traditional cultural performances.",
+        "latitude": "27.7042",
+        "longitude": "85.3070",
+        "type_visit": "Historical",
+        "costs" : [
+            {
+                "cost": "500",
+                "description": "entry fee"
+            },
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Changu Narayan",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Changu Narayan is a Hindu temple dedicated to Lord Vishnu located on a hilltop near Bhaktapur. It is a UNESCO World Heritage Site and a testament to the rich Newari architecture and craftsmanship.",
+        "activity": "Admire the intricate carvings and sculptures on the temple, hike to the hilltop for panoramic views of the Kathmandu Valley, and explore the nearby villages and markets for a glimpse of rural Nepali life.",
+        "latitude": "27.7144",
+        "longitude": "85.4274",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "500",
+                "description": "entry fee"
+            },
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title" : "Shivapuri National Park",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Shivapuri National Park is a protected area located north of Kathmandu. It is home to diverse flora and fauna, including several rare and endangered species.",
+        "activity": "Go on a trek or hike through the park to explore the scenic trails and observe the wildlife, visit the Nagi Gompa monastery for a spiritual retreat, and enjoy a picnic or camping trip in the peaceful natural surroundings.",
+        "latitude": "27.7773",
+        "longitude": "85.3973",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "500",
+                "description": "entry fee"
+            },
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Nagarkot",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Nagarkot is a scenic hilltop town located near Kathmandu, famous for its stunning views of the Himalayas including Mount Everest. It is a popular destination for hiking and nature enthusiasts.",
+        "activity": "Enjoy panoramic views of the sunrise and sunset over the Himalayas, go on a nature walk or hike in the surrounding hills, and visit nearby villages to learn about the local culture and traditions.",
+        "latitude": "27.7156",
+        "longitude": "85.5200",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Bagmati River",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "The Bagmati River is a sacred river in Nepal that flows through the Kathmandu Valley and is considered a lifeline for the city's residents. It is also home to several important religious sites.",
+        "activity": "Visit the Pashupatinath Temple located on the banks of the Bagmati River to witness traditional Hindu cremation rituals, take a boat ride on the river to explore the surrounding area, or simply relax by the riverbank and enjoy the serene atmosphere.",
+        "latitude": "27.6846",
+        "longitude": "85.3289",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Phulchowki Hill",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Phulchowki Hill is the highest hill in the Kathmandu Valley and is located south of the city. It is known for its dense forest, diverse wildlife, and stunning panoramic views of the Himalayas.",
+        "activity": "Go on a trekking or hiking adventure to explore the lush forest and diverse wildlife of the hill, enjoy a picnic with friends and family while taking in the scenic views, or visit the nearby Godavari Botanical Garden to learn about the native flora and fauna of the area.",
+        "latitude": "27.6049",
+        "longitude": "85.3488",
+        "type_visit": "Trekking",
+        "costs": [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Narayanhiti Palace Museum",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Narayanhiti Palace Museum is a former royal palace located in Kathmandu that has been converted into a museum. It is a popular attraction for those interested in learning about the history and culture of Nepal.",
+        "activity": "Take a guided tour of the palace to learn about the history and culture of the Nepalese royal family, explore the museum's extensive collection of art and artifacts, and attend cultural events and exhibitions hosted at the museum throughout the year.",
+        "latitude": "27.7135",
+        "longitude": "85.3253",
+        "type_visit": "Historical",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Garden of Dreams",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "The Garden of Dreams is a historic neo-classical garden located in the heart of Kathmandu. It is known for its serene atmosphere, stunning architecture, and beautiful landscaping.",
+        "activity": "Relax and unwind in the peaceful surroundings of the garden, enjoy a picnic with friends and family, or attend cultural events and concerts hosted in the garden's amphitheater throughout the year.",
+        "latitude": "27.7112",
+        "longitude": "85.3168",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Thamel",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Thamel is a bustling tourist district located in the heart of Kathmandu. It is known for its lively atmosphere, vibrant street markets, and diverse nightlife.",
+        "activity": "Shop for souvenirs and handicrafts in the colorful street markets, sample local street food and cuisine at the numerous restaurants and cafes, or enjoy a night out at the various bars, clubs, and live music venues in the area.",
+        "latitude": "27.7148",
+        "longitude": "85.3082",
+        "type_visit": "Tourist location",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Bhaktapur Durbar Square",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Bhaktapur Durbar Square is a UNESCO World Heritage Site located in the city of Bhaktapur. It is known for its stunning architecture, intricate carvings, and vibrant cultural heritage.",
+        "activity": "Explore the various temples, palaces, ad courtyards located in the square, admire the intricate carvings and architecture of the buildings, and learn about the cultural and historical significance of the site from local guides.", 
+        "latitude": "27.6721",
+        "longitude": "85.4278",
+        "type_visit": "Historical",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],"time_taken" : "0.5"
+    },
+    {
+        "title": "National Museum of Nepal",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "The National Museum of Nepal is the oldest and largest museum in Nepal, featuring a wide range of exhibits related to Nepalese art, culture, and history. The museum is housed in a historic palace building and is a must-visit for history buffs.",
+        "activity": "Explore the vast collection of exhibits, including ancient coins, sculptures, weapons, and religious artifacts. Learn about Nepal's rich history and cultural heritage through the museum's guided tours and interactive displays.",
+        "latitude": "27.6962",
+        "longitude": "85.3138",
+        "type_visit": "Historical",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Budhanilkantha Temple",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Budhanilkantha Temple is a popular Hindu temple located on the outskirts of Kathmandu. It is dedicated to Lord Vishnu and features a large stone statue of the deity lying on a bed of snakes.",
+        "activity": "Observe Hindu worshippers performing rituals and offerings, take a stroll around the serene temple complex, and admire the intricate carvings and decorations.",
+        "latitude": "27.7726",
+        "longitude": "85.3615",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Godavari Botanical Garden",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "The Godavari Botanical Garden is a lush garden located in the foothills of the Phulchowki Mountain in Lalitpur. It is home to a wide variety of plant species, including medicinal plants and exotic flowers.",
+        "activity": "Take a leisurely stroll through the garden's winding paths, learn about the various plant species on display, and enjoy a picnic amidst the serene surroundings.",
+        "latitude": "27.5905",
+        "longitude": "85.3818",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Kapan Monastry",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Kapan Monastery is a Tibetan Buddhist monastery located on the outskirts of Kathmandu. It is renowned for its beautiful architecture and stunning views of the Himalayas.",
+        "activity": "Observe Buddhist monks performing their daily rituals, participate in meditation or yoga classes, and enjoy panoramic views of the Kathmandu Valley and the surrounding mountains.",
+        "latitude": "27.7466",
+        "longitude": "85.3673",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Chandragiri Hill",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Chandragiri Hill is a popular hill station located on the outskirts of Kathmandu. It offers breathtaking views of the city, as well as the Himalayas in the distance.",
+        "activity": "Take a cable car ride to the top of the hill, visit the historic Chandragiri Fort, enjoy panoramic views of the surrounding landscape, and indulge in local delicacies at the hilltop restaurant.",
+        "latitude": "27.6433",
+        "longitude": "85.2129",
+        "type_visit": "Adventure",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Pharping",
+        "location": "Kathmandu",
+        "province": "Bagmati",
+        "description": "Pharping is a sacred pilgrimage site for both Hindus and Buddhists, located on the outskirts of Kathmandu. It is home to several monasteries and temples, as well as the famous Vajrayogini Temple.",   
+        "activity": "Visit the various temples and monasteries in the area, explore the Vajrayogini Temple and learn about its history and mythology, and take a peaceful walk around the scenic countryside.",
+        "latitude": "27.5965",
+        "longitude": "85.2492",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Phewa Lake",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "Phewa Lake is a beautiful freshwater lake located in the heart of Pokhara. It offers stunning views of the Annapurna range and is a popular spot for boating and relaxing.",
+        "activity": "Take a boat ride on the lake, enjoy the beautiful scenery, and visit the Tal Barahi Temple located on a small island in the middle of the lake.",
+        "latitude": "28.2077",
+        "longitude": "83.9662",
+        "type_visit": "Natural",
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "World Peace Pagoda",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "The World Peace Pagoda is a Buddhist stupa located on a hilltop overlooking the Pokhara Valley. It is a symbol of peace and offers breathtaking views of the Himalayas and the Phewa Lake.",
+        "activity": "Take a short hike to the stupa, enjoy the stunning views, and learn about the Buddhist culture and philosophy.",   
+        "latitude": "28.2118",
+        "longitude": "83.9569",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Bindabasini Temple",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "The Bindabasini Temple is a Hindu temple located in the old bazaar area of Pokhara. It is dedicated to the Hindu goddess Durga and is a popular pilgrimage site for Hindus.",
+        "activity": "Take part in the daily puja ceremony, witness the traditional Hindu rituals, and explore the temple complex to learn about Hindu mythology and culture.",
+        "latitude": "28.2384",
+        "longitude": "83.9822",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "David Falls",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "David Falls is a beautiful waterfall located in Pokhara. It is named after a Swiss couple who discovered it in the 1960s and is a popular tourist destination.",
+        "activity": "Enjoy the stunning views of the waterfall, take a refreshing dip in the pool below, and visit the Gupteswor Mahadev cave located behind the waterfall.",
+        "latitude": "28.2439",
+        "longitude": "83.9603",
+        "type_visit": "Adventure",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Hemja",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "Hemja is a small village located on the outskirts of Pokhara. It offers a glimpse into the traditional Nepalese way of life and is a great place to escape the hustle and bustle of the city.",
+        "activity": "Explore the village on foot, interact with the locals, and learn about their culture and way of life.",
+        "latitude": "28.2791",
+        "longitude": "83.8632",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Mahendra Cave",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "Mahendra Cave is a limestone cave located near Pokhara. It is named after King Mahendra Bir Bikram Shah Dev who visited the cave in the 1950s.",
+        "activity": "Explore the cave and marvel at the beautiful limestone formations. Take a guided tour to learn about the history and geology of the cave.",
+        "latitude": "28.2715",
+        "longitude": "83.8542",
+        "type_visit": "Adventure",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Chamero Gufa",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "Chamero Gufa, also known as the Bat Cave, is a popular tourist destination located in Pokhara. It is a populor destination doe adventure and nature lovers",
+        "activity": "Visitors can take a tour of the cave and explore the beautiful stalactites and stalagmites. They can also explore the limestone cave and witness the thousands of bats that reside inside.",
+        "latitude": "28.2677",
+        "longitude": "83.9755",
+        "type_visit": "Adventure",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Sarangkot",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "Sarangkot is a hilltop located on the outskirts of Pokhara. It offers stunning views of the Annapurna range and is a popular spot for paragliding and hiking.",
+        "activity": "Take a short hike to the hilltop, enjoy the stunning views, and go paragliding for an unforgettable experience.",
+        "latitude": "28.2372",
+        "longitude": "83.9542",
+        "type_visit": "Adventure",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken": "0.5"
+    },
+    {
+        "title": "International Mountain Museum",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "The International Mountain Museum in Pokhara showcases the culture, history, and ecology of the Himalayas. It features exhibits on mountaineering, geology, flora and fauna, and the ethnic groups that inhabit the mountain region.",
+        "activity": "Explore the museum's collection of artifacts and displays, including mountaineering equipment, photographs, and cultural exhibits. Attend a seminar or presentation on mountain conservation and sustainable tourism.",
+        "latitude": "28.2374",
+        "longitude": "83.9827",
+        "type_visit": "Historical",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken": "0.5"
+    },
+    {
+        "title": "Begnas Lake",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "Begnas Lake is a freshwater lake located about 15 kilometers from Pokhara. It is a popular destination for boating, fishing, and hiking, with stunning views of the Annapurna mountain range.",
+        "activity": "Rent a boat and explore the calm waters of the lake, or hike around the perimeter to enjoy the scenic views. Visit nearby villages to learn about traditional Nepalese lifestyles and customs.",
+        "latitude": "28.1572",
+        "longitude": "83.8668",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken": "0.5"
+    },
+    {
+        "title": "Gupteshwor Mahadev Cave",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "Gupteswor Mahadev Cave is a sacred Hindu cave located in Pokhara. It features a large Shiva lingam and is considered one of the most important Shiva shrines in Nepal.",
+        "activity": "Explore the cave's natural formations and learn about the legends and myths associated with it. Take part in a puja ceremony and offer prayers to Lord Shiva.",
+        "latitude": "28.2066",
+        "longitude": "83.9729",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken": "0.5"
+    },
+    {
+        "title": "Seti River Gorge",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "The Seti River Gorge is a natural wonder located in Pokhara. It is formed by the Seti River, which flows through a narrow gorge between the Himalayan mountains.",
+        "activity": "Take a leisurely walk along the riverbank and enjoy the views of the gorge and surrounding landscapes. Visit the nearby Seti River Bridge and watch the water flow beneath your feet.",
+        "latitude": "28.2109",
+        "longitude": "83.9758",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken": "0.5"
+    },
+    {
+        "title": "Rupa Lake",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "Rupa Lake is a scenic freshwater lake located about 10 kilometers from Pokhara. It is surrounded by lush green forests and offers a tranquil retreat for visitors.",
+        "activity": "Rent a kayak or paddleboat and explore the calm waters of the lake. Enjoy a picnic on the lakeshore or hike through the nearby forests to spot local wildlife.",
+        "latitude": "28.2062",
+        "longitude": "83.8612",
+        "type_visit": "Adventure",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken": "1"
+    },
+    {
+        "title": "Phumdikot",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "Phumdikot is a beautiful hill station offering stunning views of the Himalayas and the surrounding hills. It also contains a big statue of Lord Shive.",
+        "activity": "Visitors can go on a hike to Phumdikot. They can enjoy the view of Himalayas and surrounding hills.",
+        "latitude": "28.2509",
+        "longitude": "83.8886",
+        "type_visit": "Trekking",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken": "1"
+    },
+    {
+        "title": "Old Bazar",
+        "location": "Pokhara",
+        "province": "Gandaki",
+        "description": "Old Bazar is a bustling marketplace located in the heart of Pokhara. It offers a wide range of goods, including souvenirs, handicrafts, and local food and drink.",
+        "activity": "Shop for souvenirs and gifts to take back home, or sample local delicacies like momos and thukpa. Explore the narrow alleyways and discover hidden gems like traditional spice shops and local bakeries.",
+        "latitude": "28.2061",
+        "longitude": "83.9677",
+        "type_visit": "Historical",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken": "0.5"
+    },
+    {
+        "title": "Chitwan National Park",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "Chitwan National Park is a UNESCO World Heritage Site and one of the best places in Nepal for wildlife viewing. The park is home to the Bengal tiger, one-horned rhinoceros, and over 500 species of birds.",
+        "activity": "Take a guided jeep or walking safari through the park to spot wildlife, visit the park's elephant breeding center to learn about elephant conservation efforts, and experience the culture of the indigenous Tharu people at the Tharu Village.",
+        "latitude": "27.5797",
+        "longitude": "84.5180",
+        "type_visit": "Adventure",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Tharu Village",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "Tharu Village is an indigenous village located in the Chitwan region. The Tharu people have a unique culture and way of life that has been preserved for generations.",
+        "activity": "Experience the daily life and culture of the Tharu people through homestays, cultural shows, and traditional cuisine. Learn about the Tharu people's relationship with the environment, their farming practices, and the importance of community in their culture.",
+        "latitude": "27.5592",
+        "longitude": "84.4728",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Elephant Breeding Center",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "The Elephant Breeding Centre in Chitwan is dedicated to the conservation and breeding of elephants. The center is home to several elephants, including baby elephants born at the center.",
+        "activity": "Learn about the conservation efforts and breeding practices of the center, feed and interact with the elephants, and take a guided tour to learn about the life cycle and behavior of these majestic animals.",
+        "latitude": "27.6715",
+        "longitude": "84.4195",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Jalbire Waterfall",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "Jalbire Waterfall is a scenic waterfall located in Chitwan District. The waterfall is a popular destination for swimming and picnicking among locals and tourists alike.",
+        "activity": "Take a refreshing dip in the cool waters of the waterfall, have a picnic with family and friends, and enjoy the beautiful natural scenery.",
+        "latitude": "27.4800",
+        "longitude": "84.2758",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "1"
+    },
+    {
+        "title": "Devghat",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "Devghat is a sacred Hindu site located at the confluence of the Kali Gandaki and Trishuli rivers. It is a popular destination for pilgrims and a great place to learn about Hindu mythology and culture.",
+        "activity": "Visit the various temples and ashrams in the area, take a dip in the holy river, and attend the annual Devghat festival in November.",
+        "latitude": "27.6137",
+        "longitude": "84.5033",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Bishazari Tal",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "Bishazari Tal, also known as 20,000 Lakes, is a wetland area in Chitwan District. The area is home to a wide variety of wildlife, including migratory birds, fish, and reptiles.",
+        "activity": "Take a boat ride through the wetland area to spot various species of birds and other wildlife, learn about the local fishing and farming practices, and enjoy the peaceful natural surroundings.",
+        "latitude": "27.4527",
+        "longitude": "84.5343",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title": "Sauraha Art Gallery",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "Sauraha Art Gallery is a small gallery showcasing the work of local artists in the Chitwan region. The gallery features a variety of art forms, including paintings, sculptures, and handicrafts.",
+        "activity": "View and purchase the unique art pieces created by local artists, learn about the traditional art forms of the Chitwan region, and support the local art community.",
+        "latitude": "27.5822",
+        "longitude": "84.4814",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title" : "Ranipohkari",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "Ranipokhari is a beautiful and historic pond located in the heart of Bharatpur city, Chitwan. It was built in the 17th century by a queen in memory of her husband and is surrounded by lush green gardens and trees, making it a popular spot for picnics and relaxation.",
+        "activity": "Visitors can enjoy a leisurely walk around the pond and gardens, take a boat ride, and feed the fish that swim in the clear waters. The pond is also surrounded by several temples, including a small temple dedicated to Lord Krishna, which visitors can explore and pay their respects.",
+        "latitude": "27.5636",
+        "longitude": "84.4558",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"        
+    },
+    {
+        "title": "Siraichuli Hills",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "Siraichuli Hill is a picturesque hill station located in Makwanpur district of Nepal. The hill offers a panoramic view of the Himalayan range, including Mt. Everest, and is a popular destination for hiking and trekking.",
+        "activity": "Take a scenic trek to the top of the hill and enjoy the breathtaking view of the mountains, forests, and the surrounding countryside.",
+        "latitude": "27.7486",
+        "longitude": "84.7139",
+        "type_visit": "Trekking",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"
+    },
+    {
+        "title" : "Narayani River",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "The Narayani River is a major river in Nepal that flows through the Chitwan valley and is a lifeline for the local people and wildlife. The river is known for its rich biodiversity and is a popular destination for rafting and fishing.",
+        "activity": "Experience the thrill of white water rafting in the Narayani River and explore the diverse aquatic life and bird species along the riverbanks.",
+        "latitude": "27.6907",
+        "longitude": "84.4277",
+        "type_visit": "Natural",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"        
+    },
+    {
+        "title" : "Chitwan Tharu Museum",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "The Chitwan Tharu Museum is a museum located in the Chitwan district of Nepal, dedicated to preserving and showcasing the unique culture and history of the indigenous Tharu people.",
+        "activity": "Visit the museum to learn about the Tharu way of life, traditional arts and crafts, and their contribution to the cultural diversity of Nepal.",
+        "latitude": "27.63723",
+        "longitude": "84.4304",
+        "type_visit": "Historical",
+        "costs" : [
+            {
+                "cost": "1000",
+                "description": "taxi-fare"
+            },
+            {
+                "cost" : "2000",
+                "description": "travel-guide"
+            }
+        ],
+        "time_taken" : "0.5"        
+    },
+    {
+        "title": "Maula Kalika Temple",
+        "location": "Chitwan",
+        "province": "Bagmati",
+        "description": "Maula Kalika Temple is a sacred Hindu temple located in the Gaindakot area of Nawalparasi district in Nepal. The temple is dedicated to Goddess Kalika, and is believed to be one of the most powerful Shakti Peethas in Nepal.",
+        "activity": "Take part in the daily puja ceremony, attend the annual festival of Dashain, and enjoy the scenic beauty of the surrounding hills and forests.",
+        "latitude": "27.7274",
+        "longitude": "84.4088",
+        "type_visit": "Cultural",
+        "costs" : [
+            {
+                "cost": "50",
+                "description": "entry fee"
+            },
+            {
+                "cost" : "500",
+                "description": "tour guide fee"
+            }
+            ],
+            "time_taken" : "1"
+    },
+    {
+        "title" : "Everest Base Camp Trek",
+        "location": "Sagarmatha National Park",
+        "province": "Province No. 1",
+        "description": "The Everest Base Camp Trek is a world-renowned trek that takes you through the stunning Himalayan landscapes of the Khumbu region. The trek culminates at the base camp of Mount Everest, the highest mountain in the world.",
+        "activity": "Experience the Sherpa culture, visit ancient monasteries, and trek through scenic trails to reach the base camp of the world's highest mountain.",
+        "latitude": "28.0027",
+        "longitude": "86.8520",
+        "type_visit": "trekking",
+        "costs": "100000",
+        "time_taken": "15"
+    },
+    {
+        "title" : "Annapurna Circuit Trek",
+        "location": "Annapurna Region",
+        "province": "Gandaki",
+        "description": "The Annapurna Circuit Trek is a classic trek that takes you through diverse landscapes, including lush subtropical forests, arid deserts, and high-altitude mountains. The trek offers stunning views of the Annapurna mountain range.",
+        "activity": "Trek through remote villages, cross high mountain passes, and soak in the natural beauty of the Annapurna region while experiencing the local culture and hospitality.",
+        "latitude": "28.6579",
+        "longitude": "83.8869",
+        "type_visit": "trekking",
+        "costs": "75000",
+        "time_taken": "18"
+    },
+    {
+        "title" : "Annapurna Base Camp Trek",
+        "location": "Annapurna Region",
+        "province": "Gandaki",
+        "description": "The Annapurna Base Camp Trek is a popular trek that takes you to the base camp of the Annapurna mountain range, offering panoramic views of snow-capped peaks, dense forests, and cascading waterfalls.",
+        "activity": "Trek through picturesque villages, soak in hot springs, and witness the sunrise over the Annapurna mountain range while experiencing the local culture and cuisine.",
+        "latitude": "28.5933",
+        "longitude": "83.8207",
+        "type_visit": "trekking",
+        "costs": "40000",
+        "time_taken": "7"
+    },
+    {
+        "title" : "Langtang Valley Trek",
+        "location": "Langtang National Park",
+        "province": "Bagmati",
+        "description": "The Langtang Valley Trek is a scenic trek that takes you through the Langtang National Park, where you can witness the diverse flora and fauna of the region. The trek offers stunning views of the Langtang Lirung mountain range.",
+        "activity": "Trek through pristine forests, visit ancient monasteries, and immerse yourself in the rich culture of the Tamang people while enjoying the breathtaking mountain scenery.",
+        "latitude": "28.3862",
+        "longitude": "85.5200",
+        "type_visit": "trekking",
+        "costs": "40000",
+        "time_taken": "7"
+    },
+    {
+        "title" : "Manaslu Circuit Trek",
+        "location": "Manaslu Region",
+        "province": "Gandaki",
+        "description": "The Manaslu Circuit Trek is a challenging trek that takes you through the remote Manaslu region, offering breathtaking views of the Manaslu mountain range and the surrounding Himalayan peaks. The trek takes you to the base of Mount Manaslu, the eighth highest mountain in the world.",
+        "activity": "Trek through remote villages, cross high mountain passes, and witness the unique culture and traditions of the Gurung and Tibetan people while enjoying the spectacular mountain scenery.",
+        "latitude": "28.5447",
+        "longitude": "84.9623",
+        "type_visit": "trekking",
+        "costs": "75000",
+        "time_taken": "14"
+    },
+    {
+        "title" : "Upper Mustang Trek",
+        "location": "Mustang Region",
+        "province": "Gandaki",
+        "description": "The Upper Mustang Trek is a unique trek that takes you through the remote and isolated region of Mustang, also known as the 'last forbidden kingdom'. The trek offers a glimpse into the ancient culture and traditions of the region, which has been preserved for centuries.",
+        "activity": "Trek through the arid landscapes of the Mustang region, visit ancient monasteries and caves, and witness the unique architecture and culture of the Tibetan people while enjoying the stunning mountain scenery.",
+        "latitude": "29.2177",
+        "longitude": "83.9068",
+        "type_visit": "trekking",
+        "costs": "75000",
+        "time_taken": "10"
+    }
+]
